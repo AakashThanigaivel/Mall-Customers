@@ -1,4 +1,4 @@
-# Mall-Customers
+# Mall Customers Segmentation
 ## Segmentation of Mall Customers
 
 - Labelling an unlabelled dataset through k-modes clustering 
